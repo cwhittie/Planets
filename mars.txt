@@ -2,4 +2,8 @@ Cold and dry, but everything in my favorite color.
 The two moons may be a problem for Wolfman.
 
 Caleb is a climber
+<<<<<<< HEAD
 Change made by Rachel
+=======
+Boo Caleb
+>>>>>>> 5d1c02d839a8cf875c911aaf24fe1ad6c08f0b1a
